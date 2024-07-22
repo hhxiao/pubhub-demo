@@ -4,6 +4,10 @@
     {
       "title": "Introduction",
       "content": "README.md"
+    },
+    {
+      "title": "Get Started",
+      "content": "get_started.md"
     }
   ]
 }
