@@ -5,4 +5,4 @@ Secret scanning now detects generic passwords using AI. Passwords are difficult 
 
 Compatible with macOS, Windows, and Linux, Electron apps run on three platforms across all supported architectures.
 
-{"file":"Eng_EventSink/connectors/connector.go","func":"Eng_EventSink/connectors.Do","host":"HAIHXIAO-M-K5Q6","level":"info","line":262,"msg":"[MESSAGE][pubhub_webhook:pubhub_github:hhxiao/pubhub-demo] DONE in 0 ms!","service":"","time":"2024-07-24T15:39:08"}
+The Cloud Security APIs enables you to protect and manage your users, networks, and devices. You can manage your access to internet and private destinations for the users and devices on your networks, research domains and analyze threats, display real-time security information about events and applications in your systems, and programmatically manage your organization's API keys.
