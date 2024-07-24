@@ -1,4 +1,4 @@
-Demo docs for PubHub
+Demo DOCS for PubHub
 ====================
 
 Secret scanning now detects generic passwords using AI. Passwords are difficult to find with custom patterns — the AI-powered detection offers greater precision for unstructured credentials that can cause security breaches if exposed.
