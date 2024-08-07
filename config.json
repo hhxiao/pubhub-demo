@@ -8,6 +8,11 @@
     {
       "title": "Get Started",
       "content": "get_started.md"
-    }
+    },
+    {
+      "title": "OAS Petstore 3.0",
+      "content": "petstore3.json",
+      "type": "oas3"
+    }    
   ]
 }
